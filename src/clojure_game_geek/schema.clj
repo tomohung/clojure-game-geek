@@ -4,7 +4,7 @@
    [clojure.java.io :as io]
    [com.walmartlabs.lacinia.util :as util]
    [com.walmartlabs.lacinia.schema :as schema]
-   [clojure.end :as edn]))
+   [clojure.edn :as edn]))
 
 (defn resolver-map
   []
